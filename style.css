@@ -1,0 +1,91 @@
+#Welcome_part {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    text-align: center;
+    height: 800px;
+    font-size: 30px;
+    display: table;
+    width: 100%;
+    font-family: 'Nothing You Could Do', cursive;
+    z-index: 9;
+}
+
+#Ahi {
+    border-radius: 90px;
+    padding: 5px;
+    width: 500px;
+    height: 650px;
+}
+
+#dis {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    text-align: center;
+    height: 800px;
+    font-size: 20px;
+    padding-top:30px;
+}
+
+#divwelcome {
+    display: table-cell;
+
+}
+
+.menu {
+    list-style: none;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+    font-family: 'Nothing You Could Do', cursive;
+    top: 10px;
+       color: darkgoldenrod
+}
+    
+
+.link {
+    float: left;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+}
+.link:hover { background-color:dodgerblue; }
+#video{
+    text-align: center;
+    font-size: 20px
+}
+#art{
+    text-align: center;
+    font-size: 20px;
+color: aqua  }
+.art_link:hover {color:dodgerblue; }
+    
+#Apps {
+text-align: center; 
+    font-size: 20;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(33,0,250,1) 14%, rgba(87,110,121,1) 23%, rgba(0,255,57,1) 40%, rgba(36,171,52,1) 47%, rgba(67,172,55,1) 57%, rgba(148,174,61,1) 67%, rgba(250,212,0,1) 80%, rgba(255,164,0,1) 86%, rgba(252,69,69,1) 100%);
+}
+#game {
+text-align: center;   
+    font-size: 20;
+}
+#boot_not_straped {
+    background-color: navy;
+    
+}
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(33,0,250,1) 14%, rgba(87,110,121,1) 23%, rgba(0,255,57,1) 40%, rgba(36,171,52,1) 47%, rgba(67,172,55,1) 57%, rgba(148,174,61,1) 67%, rgba(250,212,0,1) 80%, rgba(255,164,0,1) 86%, rgba(252,69,69,1) 100%);
+}
+a{
+    text-decoration: none;
+    color: darkgoldenrod;}
+#contact  iframe{
+  width: 100%;
+    background-color: firebrick
+}
+#contact{ background-color: firebrick;
+text-align: center;
+font-size: 30px}
+.link:hover { font-size: 25px; text-decoration: underline; }
